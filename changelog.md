@@ -1,33 +1,26 @@
-#Change Log
+# Changelog 
+(Newest Addition at Bottom)
 
-Team membership:  AB (Captain) & CD (Mate)  
-Team conventions: Allman notation, markdown for changelog  
-Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+COMP4711 - Lab 3
 
-## *Version x.x*
+Captain - [Robbie Perry]
 
-Release Date: Jul 26, 2027
+First Mate - [Lu She]
 
-## New Components
+## *Version 1.0*
+#### 2018-01-25 02:30 PM
+### Added
+- Edit changelog.md
+- Finished static to trivial CI website conversion
 
--   controllers
+## *Version 1.1*
+#### 2018-01-25 03:03 PM
+### Added
+- Edit changelog.md
+- Finished trivial to basic CI website conversion
 
-    -   serbian (AB)
-    
-## Updated Components
-
--   controllers
-
-    -   german (CD)
-    -   hindi (CD)
-
--   models
-
-    -   italian (AB)
-
--   views
-
-    -   slovenian (AB)
-    -   swedish
-
-
+## *Version 1.2*
+#### 2018-01-28 04:26 PM
+### Added
+- Edit changelog.md
+- Finished Basic to Good website conversion
