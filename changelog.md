@@ -19,3 +19,8 @@ First Mate - [Lu She]
 - Edit changelog.md
 - Finished trivial to basic CI website conversion
 
+## *Version 1.2*
+#### 2018-01-28 04:26 PM
+### Added
+- Edit changelog.md
+- Finished Basic to Good website conversion
