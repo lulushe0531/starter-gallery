@@ -24,3 +24,5 @@ First Mate - [Lu She]
 ### Added
 - Edit changelog.md
 - Finished Basic to Good website conversion
+
+Lab Finished
